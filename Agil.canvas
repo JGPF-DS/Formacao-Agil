@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"Agil Masterclass","id":"1a9362085bfa9ed7","x":-660,"y":-416,"width":250,"height":60},
+		{"type":"text","text":"[[MasterClass]]\n","id":"bcd52b79c88931e8","x":-660,"y":-320,"width":250,"height":68},
+		{"type":"text","text":"[[aula 2022 02 13]]","id":"4b768605a3b90746","x":-440,"y":-200,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"[[Aula 2023 02 15]]","id":"9ab9a0f4044b737f","x":-440,"y":-100,"width":250,"height":60,"color":"2"},
+		{"id":"3978623d61a9db71","x":-1180,"y":-486,"width":400,"height":416,"type":"file","file":"029 - Agil Infomoney/Aula 2023 03 22.md"}
+	],
+	"edges":[
+		{"id":"8c8fb276aa263d12","fromNode":"1a9362085bfa9ed7","fromSide":"bottom","toNode":"bcd52b79c88931e8","toSide":"top"},
+		{"id":"02eb2028c22d9839","fromNode":"bcd52b79c88931e8","fromSide":"bottom","toNode":"4b768605a3b90746","toSide":"left"},
+		{"id":"f9a4a9a17ca93d56","fromNode":"bcd52b79c88931e8","fromSide":"bottom","toNode":"9ab9a0f4044b737f","toSide":"left"},
+		{"id":"916cffc89aacf460","fromNode":"bcd52b79c88931e8","fromSide":"left","toNode":"3978623d61a9db71","toSide":"right"}
+	]
+}

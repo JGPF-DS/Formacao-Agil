@@ -4,10 +4,7 @@
 Autor: 
 Tema: Fleks
 Subtema: 
-Tags: 
-#Agil 
-#MarioTrentim
-#infomoney 
+Tags: #Agil #MarioTrentim #infomoney 
 ---
 [[MasterClass]]
 

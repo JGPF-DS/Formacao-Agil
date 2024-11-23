@@ -74,3 +74,4 @@ Plano de ação imediado (resultado do tempo dispendido na reunião)
 20.  Interação com cliente não assertiva – o cliente muda várias
 21.  Organização e integração dos documentos no formato das novas ferramentas
 22.  Aversão a tecnologia (cultura) – Devops x share point x onedrive x powerbi
+
